@@ -1,0 +1,212 @@
+ *{
+    padding:0;
+    margin:0;
+    background-color: #000000 ;
+    box-sizing: border-box;
+ }
+ /* utility classes start */
+ .d-flex{
+   display: flex;
+   }
+   .jb{
+      justify-content: space-between;
+   }
+   .je{
+      justify-content: space-evenly;
+   }
+   .ja{
+      justify-content: space-around;
+   }
+   .color{
+         color: white;
+   }
+   .ta{
+      text-align: center;
+   }
+   .mt{
+      margin-top: 20px;
+   }
+   .mt1{
+      margin-top: 60px;
+   }
+ /* utility classes end  */
+
+ /* navbar start here */
+ .img{
+  width:9opx;
+  height:90px;
+ }
+ .img1{
+   width: 100%;
+   height: 90%;
+ }
+ .c{
+   color: white;
+   margin-top: 60px;
+ }
+ .b{
+   background-color: red;
+   border-radius: 10px;
+   padding: 10px;
+   border-style: hidden;
+   color:white ;
+   margin-top: 48px;
+ }
+ .b:hover{
+   background-color:white;
+   cursor: pointer;
+   color:black;
+ }
+ .icons{
+   font-size:1rem ;
+   color:white;
+   margin-top: 67px;
+ }
+ .icon{
+   font-size:1rem ;
+   color:white;
+   margin-top: 60px;
+ }
+/* navbar ends here */
+
+/* category starts */
+
+.img2{
+   width: 250px;
+   height: 450px;
+   object-fit: cover;
+}
+.g{
+   gap: opx;
+}
+
+/* category ends */
+
+/* discover starts */
+.img3{
+   width: 450;
+   height: 300;
+   object-fit: cover;
+}
+.colorR{
+    color: red;
+}
+.mt2{
+   margin-top: 100px;
+   margin-left: 100px;
+   }
+   .mr{
+      margin-right: 100px;
+   }
+   .bb{
+      background-color: red;
+      border-radius: 10px;
+      padding: 10px;
+      border-style: hidden;
+      color:white ;
+   }
+   .mt4{
+      margin-top: 40px;
+   }
+/* discover ends */
+/* our deals star */
+.w1{
+   width: 350px;
+   height: 300px;
+   object-fit: cover;
+}
+.ml{
+   margin-left: 130px;
+}
+.mt5{
+   margin-top: 10px;
+}
+/* our deals ends */
+/* MENU OF THE WEEK start */
+.img4{
+   width: 800px;
+   height: 600px;
+   object-fit: cover;
+}
+.f{
+   font-size: 40px;
+}
+/* MENU OF THE WEEK ends */
+/* footer starts */
+
+.mr1{
+   margin-right: 800px;
+}
+.mt7{
+   margin-top: 70px;
+}
+.te{
+   text-decoration: none;
+}
+/* footer ends */
+/* restuarant start */
+.da{
+   text-decoration: none;
+   color: white;
+}
+.c1{
+   margin-top: 60px;
+}
+
+/* restuarant ends */
+/* village franchise start */
+.mt6{
+   margin-top: 50px;
+   }
+   .img5{
+      width: 500px;
+      height: 350px;
+      object-fit: cover;
+   }
+
+/* village franchise end */
+/* braches starts  */
+.mt9{
+   margin-top: 7px;
+}
+.mt10{
+   margin-top: 25px;
+}
+/* braches ends */
+/* rate starts here */
+.ml1{
+   margin-left: 550px;
+}
+.w2{
+   width: 450px;
+   height: 28px;
+   background-color: white;
+   color: black;
+   border-radius: 5px;
+   border-style: hidden;
+   font-size: 20px;
+}
+.f1{
+   font-size: 21px;
+}
+.bb1{
+   color: white;
+   background-color: red;
+   padding: 14px;
+   border-radius: 10px;
+   border-style: none;
+}
+/* rate ends here */
+/* franchise starts here */
+.bb2{
+   color: white;
+   background-color: red;
+   padding: 10px;
+   border-radius: 8px;
+   border-style: none;
+  
+}
+.ml2{
+   margin-left: 230px;
+}
+/* franchise endss here */
